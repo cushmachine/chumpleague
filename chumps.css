@@ -8,7 +8,8 @@
 body{
   background-color: #f2d07b;
   color: #191919;
-  font-size: 1em;
+  font-size: 16px;
+  line-height:1.2px;
 }
 
 a{
@@ -35,7 +36,7 @@ body{
 
 .container-wordmark{
   padding: 10px 0 0 20px;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   line-height: 40px;
 }
 
