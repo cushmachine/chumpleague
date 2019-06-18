@@ -48,7 +48,6 @@ body{
 
 .top-join-block{
   margin-top: 20px;
-  font-size: 1.5em;
   align-items: center;
   justify-content: center;
 }
@@ -105,4 +104,5 @@ body{
 #join-text{
   display:inline-block;
   margin-right:20px;
+  font-size: 1.5em;
 }
