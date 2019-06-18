@@ -8,7 +8,7 @@
 body{
   background-color: #f2d07b;
   color: #191919;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 a{
@@ -35,7 +35,7 @@ body{
 
 .container-wordmark{
   padding: 10px 0 0 20px;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   line-height: 40px;
 }
 
@@ -104,5 +104,5 @@ body{
 #join-text{
   display:inline-block;
   margin-right:20px;
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
